@@ -1,0 +1,2 @@
+# Ignore jpeg folders
+tfrecords-jpeg-*/*
